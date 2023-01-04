@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Milyen alakú a farfalle tészta?",
+    "answers": ["szarvacska", "kagyló", "masni"],
+    "correctAnswer": "masni"
+  },
+  {
+    "id": 2,
+    "question": "Milyen tésztából készül a lángos?",
+    "answers": ["kelt", "leveles", "hajtogatott"],
+    "correctAnswer": "kelt"
+  },
+  {
+    "id": 3,
+    "question": "Milyen szeszes ital az abszint?",
+    "answers": ["whisky", "pálinka", "likőr"],
+    "correctAnswer": "pálinka"
+  },
+  {
+    "id": 4,
+    "question": "Mi a tiramisu jelentése?",
+    "answers": ["pörgess fel", "falj fel", "egyél meg"],
+    "correctAnswer": "pörgess fel"
+  },
+  {
+    "id": 5,
+    "question": "Mi Pennsylvania állam itala?",
+    "answers": ["bor", "sör", "tej"],
+    "correctAnswer": "tej"
+  },
+  {
+    "id": 6,
+    "question": "Mi Csehország étele?",
+    "answers": ["knédli", "pilmenyi", "pirog"],
+    "correctAnswer": "knédli"
+  },
+  {
+    "id": 7,
+    "question": "Melyik anyag okozza a paprika csípősségét?",
+    "answers": ["kapszaicin", "kinin", "kodein"],
+    "correctAnswer": "kapszaicin"
+  },
+  {
+    "id": 8,
+    "question": "Milyen lisztből készül a puliszka?",
+    "answers": ["kukorica", "rizs", "szója"],
+    "correctAnswer": "kukorica"
+  },
+  {
+    "id": 9,
+    "question": "Mi nem kell a habkarika elkészítéséhez?",
+    "answers": ["liszt", "tojás", "cukor"],
+    "correctAnswer": "liszt"
+  },
+  {
+    "id": 10,
+    "question": "Milyen húsból készül a Cordon bleu?",
+    "answers": ["borjú", "sertés", "csirke"],
+    "correctAnswer": "borjú"
+  }
+]

@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-base {
+    @apply text-lightest border-2 border-midLight rounded-full bg-white/20 py-[0.5rem] px-[1.5rem];
+  }
+}
+
